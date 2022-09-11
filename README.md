@@ -1,16 +1,11 @@
 # camp_yellow
 
-A new Flutter project.
+Camp Yellow Assignment by Pranav Kapgate
 
-## Getting Started
+## Message For Invligators - 
 
-This project is a starting point for a Flutter application.
+Took 6 hours for coding the following.
 
-A few resources to get you started if this is your first Flutter project:
+Wasnt able to use assets provided in your png files hence used self dummy data which seemed closest to provided UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Main goal was to make the following code to be deployable and final.
